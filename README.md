@@ -13,7 +13,7 @@ I mostly don't use Publish repositories except all I do is upload private repos 
 - [Steam](https://steamcommunity.com/id/kantplaygames/)
 
 ### 🎮 Friends
-Yea this is the most pointless part of *this* README I have a way too many friends to mention here.
+hmmm...
 
 ### 💾 Statistics
 <details>
