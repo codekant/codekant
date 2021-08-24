@@ -3,17 +3,14 @@ I'm 13 I love watching anime and I work on random stuff and whenever I feel like
 
 I'm most active on **Discord** and I'll mostly respond to any message from anyone, so feel free to message me if I can do anything for you!
 
-I mostly don't use Publish repositories except all I do is upload private repos that I work on and also I code using **Javascript**, **HTML**, **CSS** and sometimes **Typescript**.
+I mostly don't use Publish repositories except all I do is upload private repos that I work on and also I code using **Javascript**, **HTML**, **CSS** and sometimes **Typescript** or **Python**.
 
 ### 📱 Social Media
-- [Website](https://kant.gq)
+- [Website](https://codekant.github.io)
 - [Instagram](https://instagram.com/kantwho)
 - [Discord](https://discord.gg/DFpvmnRp6U)
 - [MyAnimeList](https://myanimelist.net/profile/kantmal)
 - [Steam](https://steamcommunity.com/id/kantplaygames/)
-
-### 🎮 Friends
-Yea this is the most pointless part of *this* README I have a way too many friends to mention here.
 
 ### 💾 Statistics
 <details>
