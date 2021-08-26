@@ -1,5 +1,5 @@
 # ⚡ Hello
-I'm 13 I love watching anime and I work on random stuff and whenever I feel like doing anything.
+I'm 14 I love watching anime and I work on random stuff and whenever I feel like doing anything.
 
 I'm most active on **Discord** and I'll mostly respond to any message from anyone, so feel free to message me if I can do anything for you!
 
