@@ -7,7 +7,7 @@ I mostly don't use Publish repositories except all I do is upload private repos 
 
 ### 📱 Social Media
 - [Website](https://codekant.github.io)
-- [Instagram](https://instagram.com/kantwho)
+- [Instagram](https://instagram.com/wkat_)
 - [Discord](https://discord.gg/DFpvmnRp6U)
 - [MyAnimeList](https://myanimelist.net/profile/kantmal)
 - [Steam](https://steamcommunity.com/id/kantplaygames/)
